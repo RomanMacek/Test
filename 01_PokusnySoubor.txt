@@ -1,0 +1,1 @@
+Z master - a po rebase do Br01 - zmenena hodnota v souboru 01
