@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Z br01 - pred rebase - zmena do souboru 02
 Z br01 - pred rebase - zmena do souboru 02
 Z br01 - pred rebase - zmena do souboru 02
 333
+=======
+Z br01 - pred rebase - zmena do souboru 02
+>>>>>>> 31b471689b8b1d96a6c92a64244cc299091dcee6
