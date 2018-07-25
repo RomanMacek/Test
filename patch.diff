@@ -1,0 +1,41 @@
+From 5841ff700b2f8fc2c516f27e58ecd8c621e352db Mon Sep 17 00:00:00 2001
+From: Roman Macek <roman.macek@valatron.com>
+Date: Wed, 25 Jul 2018 13:03:14 +0200
+Subject: [PATCH] Br01: zmena v 02.txt (4)
+
+---
+ 02_PokusnySoubor.txt | 4 +---
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+diff --git a/02_PokusnySoubor.txt b/02_PokusnySoubor.txt
+index 0b9c551..bae0ff6 100644
+--- a/02_PokusnySoubor.txt
++++ b/02_PokusnySoubor.txt
+@@ -3,6 +3,4 @@ Z br01 - pred rebase - zmena do souboru 02
+ Z br01 - pred rebase - zmena do souboru 02
+ Z br01 - pred rebase - zmena do souboru 02
+ 333
+-=======
+-Z br01 - pred rebase - zmena do souboru 02
+->>>>>>> 31b471689b8b1d96a6c92a64244cc299091dcee6
++444
+\ No newline at end of file
+-- 
+2.17.1.windows.2
+
+From cf2212dd97ba1096c9af9c1befa862c19b42c5d5 Mon Sep 17 00:00:00 2001
+From: Roman Macek <roman.macek@valatron.com>
+Date: Tue, 24 Jul 2018 15:10:19 +0200
+Subject: [PATCH] master: pridan soubor 01
+
+---
+ 01_PokusnySoubor.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 01_PokusnySoubor.txt
+
+diff --git a/01_PokusnySoubor.txt b/01_PokusnySoubor.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.1.windows.2
+
