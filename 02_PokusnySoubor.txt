@@ -7,3 +7,4 @@ Z br01 - pred rebase - zmena do souboru 02
 555
 666
 777
+888
