@@ -1,2 +1,3 @@
 01) Z master - a po rebase do Br01 - zmenena hodnota v souboru 01
 02) Z master - a po rebase do Br01 - zmenena hodnota v souboru 01
+AAA
